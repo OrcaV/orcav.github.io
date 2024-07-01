@@ -1,0 +1,6 @@
+[submodule "resources"]
+	path = resources
+	url = https://github.com/OrcaV/codelab-resources.git
+[submodule "tools"]
+	path = tools
+	url = https://github.com/OrcaV/codelab-tools.git
